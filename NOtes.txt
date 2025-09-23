@@ -25,3 +25,15 @@ Control flow :-
 1. if(1st condition when true, if flase jump to 2nd elif)
 2. elif(2nd condition)
 3. else
+
+Loop:-
+block of code repeat multiple time until a condition is satisfied.
+
+types of loop:-
+1. for i in range(start, end, jump);
+    print(i)
+2. while loop :- used when you don't know the exact no of repetition, you have a condition.
+    i=1
+    while i<=5:
+    print (i)
+    i = i +1
